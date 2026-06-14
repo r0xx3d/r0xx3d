@@ -5,11 +5,13 @@
 </div>
 
 ```text
- -----------
- /dev/null   : Nomad agent of the architectural abyss
- /dev/null   : Red Team
- /dev/null   : Malware Research
- /dev/comms  : [@0x7233717569656d](https://x.com/web0k)
+ /dev/null
+ Nomad agent of the architectural abyss
+ Red Team
+ Malware Research
+
+ /dev/comms
+ [@0x7233717569656d](https://x.com/web0k)
 
  exit
 ```
