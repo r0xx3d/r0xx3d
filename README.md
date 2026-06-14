@@ -1,16 +1,20 @@
-## Hi there 👋
+# fetch desiring_machine.conf
 
-<!--
-**r0xx3d/r0xx3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://i.pinimg.com/originals/8f/5d/62/8f5d6288d95c0ac4f6836f8afa27759b.gif" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `/dev/null`
+> **Nomad agent of the architectural abyss**
+> **Red Team**
+> **Malware Research**
+
+---
+
+### `/dev/comms`
+* [@0x7233717569656d](https://x.com/web0k) ---
+> 
+[ EOF ]
+
